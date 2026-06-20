@@ -1,4 +1,4 @@
-### Hi, I'm Palak 👋
+### Hi, I'm Palak 
 
 - 🎓 2nd year Computer Engineering student at PCCOE, Pune
 - 💻 Background in C, C++ — currently learning Java
