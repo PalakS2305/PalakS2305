@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Palak 👋
 
-<!--
-**PalakS2305/PalakS2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2nd year Computer Engineering student at PCCOE, Pune
+- 💻 Background in C, C++ — currently learning Java
+- 🌐 Interested in Web Development and AI/ML
+- 🌱 Currently exploring Open Source contributions
+- 📫 Reach me at: your-email@example.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I'm learning
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
